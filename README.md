@@ -22,6 +22,11 @@ Ejemplo: A modo de ejemplo utilizando la temp base= 18° y suponiendo que la tem
     <img src="recursos/Graficos_gas.png" alt="Gráficos de consumo gas" width="70%">
 </center>
 
+Fuentes:
+  - https://www.petrotecnia.com.ar/abril17/Petro/GasVsElec.pdf
+  - https://www.camarco.org.ar/wp-content/uploads/2023/07/17-Gas.pdf
+  - https://www.eia.gov/energyexplained/units-and-calculators/degree-days.php
+
 # Objetivos
 El objetivo principal es cuantificar y modelar cómo los factores climáticos influyen en el consumo de gas en los diferentes sectores. 
 La motivación surge de la necesidad de comprender la estacionalidad de la demanda energética para optimizar la infraestructura de distribución y producción, especialmente ante los picos de consumo en estaciones y provincias frías.
