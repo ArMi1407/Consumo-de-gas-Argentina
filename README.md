@@ -18,8 +18,8 @@ Los grados-día/calefacción (GDC) son una medida estadística que mide el frío
 Ejemplo: A modo de ejemplo utilizando la temp base= 18° y suponiendo que la temperatura de un día X es: Max 10°C, min 4°C, la media de ambas es de 7°C. Se aplica una fórmula  estadística, *(b)18-(m)7= 11 Grados día*, ese valor indica un mayor consumo.Luego cada valor resultante de cada día es sumado de acuerdo a un periodo de tiempo de interés (mes, temporada o año) y da como resultado el GDG anual.
 
 <center>
-    <img src="URL_IMAGEN_1" alt="Gráfico de proporción de ditribución de gas natural año 2022" width="48%">
-    <img src="URL_IMAGEN_2" alt="Gráficos de consumo gas" width="48%">
+    <img src="recursos/Grafico_gas.png" alt="Gráfico de proporción de ditribución de gas natural año 2022" width="28%">
+    <img src="recursos/Graficos_gas.png" alt="Gráficos de consumo gas" width="70%">
 </center>
 
 # Objetivos
