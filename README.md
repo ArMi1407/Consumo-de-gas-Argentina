@@ -32,5 +32,5 @@ El objetivo principal es cuantificar y modelar cómo los factores climáticos in
 La motivación surge de la necesidad de comprender la estacionalidad de la demanda energética para optimizar la infraestructura de distribución y producción, especialmente ante los picos de consumo en estaciones y provincias frías.
 
 # Producto
-* [Informe EDA]()
+* [Informe EDA](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FArMi1407%2FConsumo-de-gas-Argentina%2Frefs%2Fheads%2Fmain%2Fdocs%2FInforme_EDA.docx&wdOrigin=BROWSELINK)
 * [Dasboard]()
